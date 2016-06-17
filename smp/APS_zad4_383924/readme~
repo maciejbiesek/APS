@@ -1,0 +1,23 @@
+Wejście:
+
+W pierwszej linii wejścia znajdują się, zapisane po spacji, wierzchołki grafu
+Kolejne linie stanowią opis krawędzi. Pojedyncza krawędź opisana jest przez trójkę danych: dwa wierzchołki i waga krawędzi, wszystkie oddzielone spacjami.
+
+
+Wyjście:
+
+Na wyjściu otrzymujemy listę krawędzi należących do drzewa oraz całkowitą jego wagę.
+
+
+Dane wejściowe:
+
+Znajdują się w plikach test1 (przykład z zajęć), test2 (przykład z Cormena) i test3 (przykład ze strony http://eduinf.waw.pl/inf/alg/001_search/0141.php).
+
+
+Uruchomienie:
+
+python run.py [ścieżka do pliku]
+np. python run.py test1
+
+
+Uwaga: Program nie jest idiotoodporny
